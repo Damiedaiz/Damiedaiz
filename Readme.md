@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Oluwadamilare Oloyede. Front-end Web Designer. <br>C.E.O. @daizclou. <br>Love JavaScript. ❤️<br>Enjoy solving problems and critical thinking. 👌🧑‍💻<br>If I'm not coding I'm designing or sleeping, nothing else.
+Hi, I am Oluwadamilare Oloyede. Front-end Web Designer. <br>C.E.O. @daizclou &DaizSign Group. <br>Love JavaScript. ❤️<br>Enjoy solving problems and critical thinking. 👌🧑‍💻<br>If I'm not coding I'm designing or sleeping, nothing else.
 
 
 # 💻 Tech Stack:
